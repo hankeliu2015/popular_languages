@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/popular_languages.rb"
+
+#Scraper.new.scrape_page
+
+#Scraper.new.scrape_details
+
+CLI.new.start
